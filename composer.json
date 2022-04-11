@@ -1,0 +1,17 @@
+{
+  "name": "phoenixtfm/plantpi",
+  "description": "",
+  "authors": [
+    {
+      "name": "Thomas Merk",
+      "email": "t.f.merk@web.de"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "PlantPi\\": "src/"
+    }
+  }
+}
